@@ -1,3 +1,6 @@
 *.pdf
 extr_env/
-*.conf
+pipeline.conf
+data_pipeline_readwrite_accessKeys.csv
+*.ipynb
+.ipynb_checkpoints
