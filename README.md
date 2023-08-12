@@ -1,6 +1,6 @@
-# [title]: 
+# [Title]: 
 ## Orders_ELT_pipeline
-# [description] : 
+# [Description] : 
 ### This project is a simple execution for the ELT pattern using concepts like : Full and Incremental ingestion of data and
 ### transforming data with SCD
 # [Technologies]
