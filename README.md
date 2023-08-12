@@ -19,4 +19,5 @@
 -- run the first_fill.py to fill create and fill your tables with data you can ignore that step if you have data already inserted in your database
 -- run full_ingestion.py or incremental_ingestion.py depending on whether you need to load data fully or incrementally
 -- finally run transformation.py to apply transformations and create the final data model
-# credits : data pipeline pocket reference book from O'Reilly chapters 4,5 and 6. 
+# [CREDITS] :
+## data pipeline pocket reference book from O'Reilly chapters 4,5 and 6. 
